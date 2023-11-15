@@ -29,3 +29,5 @@ CREATE TABLE todos(
 ```
 
 * copy the file: `my_db.sqlite` to the code directory.
+* Run the app
+* The routes is written in the app.py
