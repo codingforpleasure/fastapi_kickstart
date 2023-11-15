@@ -31,3 +31,7 @@ CREATE TABLE todos(
 * copy the file: `my_db.sqlite` to the code directory.
 * Run the app
 * The routes is written in the app.py
+
+<p align="center"> <!-- style="width:400px;" -->
+  <img src="images/screenshot.png" title="tool tip here">
+</p>
