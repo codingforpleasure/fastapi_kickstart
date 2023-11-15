@@ -9,6 +9,8 @@ uvicorn = {extras = ["standard"], version = "*"}
 python-multipart = "*"
 sqlalchemy = "*"
 jinja2 = "*"
+mysql-connector-python = "*"
+mysqlclient = "*"
 
 [dev-packages]
 
