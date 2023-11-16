@@ -1,5 +1,8 @@
 # Instructions
 
+* Reference was taken from here: https://youtu.be/3vfum74ggHE?t=308
+
+
 * install the prerequisites in the `Pipfile`
 
 ## Setting up the sqlite
