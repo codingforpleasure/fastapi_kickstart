@@ -5,6 +5,7 @@
 
 * install the prerequisites in the `Pipfile`
 
+
 ## Setting up the sqlite
 
 * First install sqlite:
@@ -38,3 +39,7 @@ CREATE TABLE todos(
 <p align="center"> <!-- style="width:400px;" -->
   <img src="images/screenshot.png" title="tool tip here">
 </p>
+
+## Setting up mysql
+
+https://blog.balasundar.com/building-a-crud-app-with-fastapi-and-mysql
