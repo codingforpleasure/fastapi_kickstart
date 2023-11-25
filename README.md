@@ -55,6 +55,13 @@ Exit by the command: `.exit`
   <img src="images/screenshot.png" title="tool tip here">
 </p>
 
+## Getting the routes 
+
+Fo getting all routes in a clear manner, goto:
+
+http://0.0.0.0:8000/docs
+
+
 ## Setting up mysql
 
 https://blog.balasundar.com/building-a-crud-app-with-fastapi-and-mysql
